@@ -1,0 +1,14 @@
+Este proyecto es un sistema para gestionar productos y categorías desarrollado con **Angular** y **Spring Boot**.
+
+## **Requisitos Previos**
+- Node.js (versión 14 o superior)
+- Angular CLI (versión 12 o superior)
+- Java JDK 11
+- Maven
+
+## **Instrucciones de Configuración**
+
+### **Backend (Spring Boot)**
+1. Navega a la carpeta del backend:
+   ```bash
+   cd backend
